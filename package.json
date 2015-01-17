@@ -1,7 +1,7 @@
 {
   "name": "ember-datagrid",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A muchly needed data grid for Ember.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/joelalejandro/ember-datagrid",
   "engines": {
     "node": ">= 0.10.0"
   },

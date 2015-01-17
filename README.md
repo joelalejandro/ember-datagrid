@@ -1,6 +1,6 @@
 # Ember-datagrid
 
-This README outlines the details of collaborating on this Ember addon.
+A muchly needed data grid for Ember CLI.
 
 ## Installation
 
